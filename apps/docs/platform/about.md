@@ -74,4 +74,4 @@ As long as all applications are being developed separately, there may be variati
 implement the platform. If you encounter unexpected differences, please consider reporting
 an [issue](https://github.com/Telegram-Mini-Apps/issues).
 
-:::
+:::.
